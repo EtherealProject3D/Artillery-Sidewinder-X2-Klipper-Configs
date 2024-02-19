@@ -1,0 +1,1 @@
+This is my Klipper configs for the Artillery Sidewinder X2. I have also included are mounts for a BL-Touch and CR-Touch and have coorisponding configs with the correct probe offsets. As I develope and refine my setup I will update these configs to match.
